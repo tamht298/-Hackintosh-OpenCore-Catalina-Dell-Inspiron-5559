@@ -1,4 +1,4 @@
-# Hackintosh Dell Ins 5559:
+# Hackintosh Dell Ins 5559 / Acer Aspire V Nitro VN7-572G-75N7 :
 Check the setup guide below to make sure install macOs successfully.
 ## Result
 ![Image of installing's result](https://i.imgur.com/cEBdsWi.png)
