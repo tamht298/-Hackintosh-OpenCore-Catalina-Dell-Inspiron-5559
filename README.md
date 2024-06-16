@@ -4,11 +4,11 @@ Check the setup guide below to make sure install macOs successfully.
 ![Image of installing's result](https://i.imgur.com/cEBdsWi.png)
 
 ## System's Configuration:
-* Laptop Dell Ins 5559
+* Laptop Dell Ins 5559 / Acer Aspire V Nitro VN7-572G-75N7
 
 | Specifications | Details                                                         |
 | -------------- | --------------------------------------------------------------- |
-| Laptop Model   | Dell Inspiron 5559                                              |
+| Laptop Model   | Dell Inspiron 5559 / Acer Aspire V Nitro VN7-572G-75N7                                              |
 | Processor      | Intel Core i7-6500U @ 3.10GHz dual-core                         |
 | RAM            | 2 X 8GB (SK Hynix DDR3L 1600MHz + Kingston DDR3L 8GB)                                 |
 | Storage        | SSD Apacer AS450 2.5 inch 240GB Sata III AP240GAS450B                       |
@@ -18,7 +18,8 @@ Check the setup guide below to make sure install macOs successfully.
 
 * macOS Catatlina 10.15.6
 * macOS Bigsur 11.6 (working)
-* OpenCore 0.6.0
+* macOS Ventura 13.6.6 (working)
+* OpenCore 1.0.0
 
 ## Setup
 1. Open file config.plist and change the System id with prefix value ${TBR_}, use GenSMBIOS
