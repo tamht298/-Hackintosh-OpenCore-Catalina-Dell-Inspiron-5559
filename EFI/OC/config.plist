@@ -1037,7 +1037,7 @@
                     <key>boot-args</key>
                     <string>debug=0x100 keepsyms=1 -wegnoegpu igfxonln=1</string>
                     <key>csr-active-config</key>
-                    <data>ZwgAAA==</data>
+                    <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
                     <string>en-US:0</string>
                     <key>run-efi-updater</key>
@@ -1102,13 +1102,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>${TBR_MLB}</string>
+                <string>${TBR_}</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>ESIzRFVm</data>
+                <data>${TBR_}</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1116,9 +1116,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro13,2</string>
                 <key>SystemSerialNumber</key>
-                <string>${TBR_SERIALNUMBER}</string>
+                <string>${TBR_}</string>
                 <key>SystemUUID</key>
-                <string>${TBR_UUID}</string>
+                <string>${TBR_}</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
